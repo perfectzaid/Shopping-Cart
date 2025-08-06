@@ -1,2 +1,2 @@
-# Shopping-Cart
-Created a Shopping cart where we add our products in cart
+# js-cart-setup
+ADD ITEMS TO CART JAVASCRIPT PROJECT
